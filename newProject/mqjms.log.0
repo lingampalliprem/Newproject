@@ -1,0 +1,63 @@
+24 November 2022 at 12:17:07 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1068, 2307, 4113, 8234, 17065, 25556]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
+24 November 2022 at 12:24:21 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1231, 2187, 4579, 8142, 16965, 25835]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
+24 November 2022 at 15:19:49 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1240, 2013, 4330, 8839, 16036, 25614]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
+24 November 2022 at 23:35:27 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1014, 2362, 4359, 8372, 16841, 26219]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
+25 November 2022 at 02:08:51 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1216, 2069, 4526, 8074, 16911, 25241]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
+25 November 2022 at 02:10:30 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1236, 2258, 4055, 8288, 16363, 26254]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
+25 November 2022 at 02:14:23 IST[Camel (camel-1) thread #2 - ShutdownTask] com.ibm.mq.jmqi.remote.impl.RemoteReconnectThread
+Reconnection times (milliseconds) : '[1229, 2067, 4690, 8777, 16531, 26310]'
+
+EXPLANATION:
+null
+
+ACTION:
+null
+--------------------------------------------------------------------
